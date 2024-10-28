@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AlyyETgixhmJ04CuuGNakhQbK7s2JrcAX6ftpupPiGI=",
+  "Source": "geniusxp-backend-dotnet",
+  "BasePath": "_content/geniusxp-backend-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

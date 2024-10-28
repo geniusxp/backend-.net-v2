@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hemily Nara\\OneDrive - Fiap-Faculdade de Inform\u00E1tica e Administra\u00E7\u00E3o Paulista\\GITHUB\\backend-.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{987A602F-A1B6-44C4-9667-3B491B40F93B}|geniusxp-backend-dotnet.csproj|c:\\users\\hemily nara\\onedrive - fiap-faculdade de inform\u00E1tica e administra\u00E7\u00E3o paulista\\github\\backend-.net\\geniusxp-backend-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{987A602F-A1B6-44C4-9667-3B491B40F93B}|geniusxp-backend-dotnet.csproj|solutionrelative:geniusxp-backend-dotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F221E821-BE95-4392-8A42-7DC587105F5B}|..\\geniusxptest-backend\\geniusxptest-backend.csproj|c:\\users\\hemily nara\\onedrive - fiap-faculdade de inform\u00E1tica e administra\u00E7\u00E3o paulista\\github\\geniusxptest-backend\\geniusxptest-backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "geniusxp-backend-dotnet",
+              "DocumentMoniker": "C:\\Users\\Hemily Nara\\OneDrive - Fiap-Faculdade de Inform\u00E1tica e Administra\u00E7\u00E3o Paulista\\GITHUB\\backend-.net\\geniusxp-backend-dotnet.csproj",
+              "RelativeDocumentMoniker": "geniusxp-backend-dotnet.csproj",
+              "ToolTip": "C:\\Users\\Hemily Nara\\OneDrive - Fiap-Faculdade de Inform\u00E1tica e Administra\u00E7\u00E3o Paulista\\GITHUB\\backend-.net\\geniusxp-backend-dotnet.csproj",
+              "RelativeToolTip": "geniusxp-backend-dotnet.csproj",
+              "ViewState": "AQIAABoAAAAAwCw1mqXGvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T00:02:06.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "geniusxptest-backend",
+              "DocumentMoniker": "C:\\Users\\Hemily Nara\\OneDrive - Fiap-Faculdade de Inform\u00E1tica e Administra\u00E7\u00E3o Paulista\\GITHUB\\geniusxptest-backend\\geniusxptest-backend.csproj",
+              "RelativeDocumentMoniker": "..\\geniusxptest-backend\\geniusxptest-backend.csproj",
+              "ToolTip": "C:\\Users\\Hemily Nara\\OneDrive - Fiap-Faculdade de Inform\u00E1tica e Administra\u00E7\u00E3o Paulista\\GITHUB\\geniusxptest-backend\\geniusxptest-backend.csproj",
+              "RelativeToolTip": "..\\geniusxptest-backend\\geniusxptest-backend.csproj",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAWwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T00:01:56.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
